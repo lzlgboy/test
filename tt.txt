@@ -1,0 +1,9 @@
+--------------------------------------------------------------------------------
+BAD REQUEST - STATUS CODE: 400
+RESPONSE URL: https://api.tdameritrade.com/v1/oauth2/token
+RESPONSE HEADERS: {'Date': 'Mon, 20 Apr 2020 13:59:31 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Content-Length': '31', 'Connection': 'keep-alive', 'X-Application-Context': 'OAUTH_SERVICE:run:8080', 'Cneonction': 'close', 'Cache-Control': 'no-cache,no-store,must-revalidate', 'Access-Control-Allow-Origin': '', 'Access-Control-Allow-Headers': 'origin, x-requested-with, accept, authorization, content-type', 'Access-Control-Max-Age': '3628800', 'Access-Control-Allow-Methods': 'GET, PUT, POST, DELETE, OPTIONS, HEAD, PATCH', 'X-Xss-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Security-Policy': "frame-ancestors 'self'", 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains, max-age=31536000'}
+RESPONSE PARAMS: {}
+RESPONSE TEXT: {
+  "error" : "invalid_grant"
+}
+--------------------------------------------------------------------------------
